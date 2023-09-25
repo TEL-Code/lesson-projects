@@ -1,2 +1,2 @@
 # lesson-projects
-Projects for the course for all stages
+This is the safevault to all the lesson projects TELCode has for basic programming knowledge. 
